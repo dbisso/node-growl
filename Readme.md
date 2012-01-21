@@ -49,6 +49,10 @@ Callback functions are optional
     - priority for the notification (default is 0)
   - sticky
     - weither or not the notification should remainin until closed
+  - wait
+    - whether to wait for the notification to be dismissed or timeout
+  - indentifier
+    - a string that target a specific notification and used for coalescing
   - image
     - Auto-detects the context:
       - path to an icon sets --iconpath
