@@ -48,7 +48,7 @@ Callback functions are optional
   - priority
     - priority for the notification (default is 0)
   - sticky
-    - weither or not the notification should remainin until closed
+    - whether or not the notification should remainin until closed
   - wait
     - whether to wait for the notification to be dismissed or timeout
   - indentifier
